@@ -6,10 +6,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"8"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -17,10 +17,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"9"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -28,10 +28,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -39,22 +39,22 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
-				"dropshadow" "1"
+				"dropshadow"	"1"
 			}
 		}
 		surface11
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"11"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -62,10 +62,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"12"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -73,22 +73,22 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"12"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
-				"dropshadow" "1"
+				"dropshadow"	"1"
 			}
 		}
 		surface13
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"13"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -96,10 +96,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"14"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -107,10 +107,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"15"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -118,22 +118,22 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"15"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
-				"dropshadow" "1"
+				"dropshadow"	"1"
 			}
 		}
 		surface16
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"16"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -141,10 +141,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"18"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -152,22 +152,22 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"18"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
-				"dropshadow" "1"
+				"dropshadow"	"1"
 			}
 		}
 		surface20
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"20"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
@@ -175,7 +175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -186,7 +186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -198,7 +198,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -209,7 +209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -221,7 +221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -232,7 +232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -244,7 +244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -255,7 +255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -267,7 +267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -289,7 +289,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -301,7 +301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -312,7 +312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -323,7 +323,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"60"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -334,7 +334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -345,7 +345,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceHPAmmo-Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -356,7 +356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceHPAmmo-Medium"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -422,42 +422,42 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"15"
 				"weight"	"0"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"22"
 				"weight"	"0"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"26"
 				"weight"	"0"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Surface-Medium"
+				"name"		"SurfaceSharpened-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"antialias"	"1"
@@ -469,20 +469,35 @@ Scheme
 	{
 		"8"
 		{
-			"font" "resource/fonts/Surface-Medium.otf"
-			"name" "Surface-Medium"
+			"font" "resource/fonts/Surface-Sharpened.ttf"
+			"name" "SurfaceSharpened-Medium"
 		}
 		"9"
+		{
+			"font" "resource/fonts/Surface-Broesel.otf"
+			"name" "Surface-Broesel"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Surface-HP-and-Ammo.ttf"
+			"name" "SurfaceHPAmmo-Medium"
+		}
+		"11"
 		{
 			"font" "resource/fonts/SurfaceNumbers-Sharpened.otf"
 			"name" "SurfaceNumbers-Sharpened"
 		}
-		"10"
+		"12"
+		{
+			"font" "resource/fonts/Surface-Medium.otf"
+			"name" "Surface-Medium"
+		}
+		"13"
 		{
 			"font" "resource/fonts/Blank.ttf"
 			"name" "Blank"
 		}
-		"11"
+		"14"
 		{
 			"font" "resource/fonts/Blocks.ttf"
 			"name" "Blocks"

@@ -87,7 +87,7 @@ Scheme
 		"HudProgressBarActive"		"240 207 78 255"
 		"HudProgressBarInActive"	"140 120 73 255"
 		"HudProgressBarActiveLow"	"240 30 30 255"
-		"HudProgressBarInActiveLow"	"240 30 30 99"	
+		"HudProgressBarInActiveLow"	"240 30 30 99"
 
 		"HudTimerProgressActive"	"251 235 202 255"
 		"HudTimerProgressInActive"	"52 48 45 255"
@@ -505,13 +505,12 @@ Scheme
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"		"Verdana"
-				"tall"		"24"
+				"tall"		"9"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
@@ -585,13 +584,12 @@ Scheme
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"		"Verdana"
-				"tall"		"22"
+				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
@@ -640,13 +638,12 @@ Scheme
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"		"Verdana"
-				"tall"		"16"
+				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 		}
@@ -686,13 +683,12 @@ Scheme
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"		"Verdana"
-				"tall"		"30"
+				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
@@ -766,12 +762,12 @@ Scheme
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
-			"5"
+			"5" // Misyl: Proportional
 			{
 				"name"		"Verdana"
-				"tall"		"24"
+				"tall"		"12"
 				"weight"	"700"
-				"yres"	"1200 10000"
+				"antialias"	"1"
 			}
 		}
 		"HudFontGiant"
@@ -817,11 +813,10 @@ Scheme
 			"5"
 			{
 				"name"		"TF2"
-				"tall"		"52"
+				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
-				"yres"		"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -902,6 +897,15 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"24"
+				"weight"	"500"
+				"yres"		"1 1199"
+				"additive"	"0"
+				"antialias" "1"
+			}
+			"2" // Misyl: Proportional
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1030,6 +1034,17 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"HudMenuNumberFont"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2391,7 +2406,8 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"7"
+				"tall"		"7" [!$POSIX]
+				"tall"		"8" [$POSIX]
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2402,7 +2418,8 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"7"
+				"tall"		"7" [!$POSIX]
+				"tall"		"8" [$POSIX]
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2412,7 +2429,8 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"7"
+				"tall"		"7" [!$POSIX]
+				"tall"		"8" [$POSIX]
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -2434,6 +2452,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"400"
@@ -2443,6 +2462,7 @@ Scheme
 			}
 			"2"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"400"
@@ -2452,7 +2472,8 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"ocra"
+				"name"		"OCR A Extended" [$WINDOWS]
+				"name"		"ocra"	
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2465,6 +2486,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"800"
@@ -2474,6 +2496,7 @@ Scheme
 			}
 			"2"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"800"
@@ -2483,6 +2506,7 @@ Scheme
 			}
 			"3"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"18"
 				"weight"	"800"
@@ -2496,6 +2520,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"16"
 				"weight"	"400"
@@ -2641,7 +2666,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2960,6 +2985,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"7"
 				"weight"	"0"
@@ -2973,7 +2999,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ocra"
+				"name"		"OCR A Extended" [$WINDOWS]
+				"name"		"ocra"		
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2985,6 +3012,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"400"
@@ -2997,6 +3025,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"400"
@@ -3009,6 +3038,7 @@ Scheme
 		{
 			"1"
 			{
+				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"30"
 				"weight"	"400"
@@ -3024,7 +3054,6 @@ Scheme
 	// describes all the border types
 	Borders
 	{
-		
 		NoBorder
 		{
 			"inset" "0 0 0 0"
@@ -3276,13 +3305,14 @@ Scheme
 				
 		MainMenuSubButtonBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 1 0"
+			"proportional_scalar" "0.667"
 			Left
 			{
 				"1"
 				{
 					"color" "TanDarker"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -3291,7 +3321,7 @@ Scheme
 				"1"
 				{
 					"color" "TanDarker"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 		}
@@ -3513,8 +3543,8 @@ Scheme
 			"image"					"loadout_rect"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"3"					// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"3"	
 		}
 		
 		StoreFreeTrialBorder
@@ -5828,5 +5858,13 @@ Scheme
 				"range" "0x0000 0x007E"
 			}
 		}
+		"10"		"resource/linux_fonts/DejaVuSans.ttf"
+		"11"		"resource/linux_fonts/DejaVuSans-Bold.ttf"
+		"12"		"resource/linux_fonts/DejaVuSans-BoldOblique.ttf"
+		"13"		"resource/linux_fonts/DejaVuSans-Oblique.ttf"
+		"14"		"resource/linux_fonts/LiberationSans-Regular.ttf"
+		"15"		"resource/linux_fonts/LiberationSans-Bold.ttf"
+		"16"		"resource/linux_fonts/LiberationMono-Regular.ttf"
+		"17"		"resource/linux_fonts/FiraSans-Regular.ttf"
 	}
 }
